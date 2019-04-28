@@ -6,4 +6,5 @@ wider time/dev from 5nS to 500mS and the elemination of the calculation section.
 
 May be it ist useful for the other guys who own such an old usb scope (;-)
 
-![la](https://raw.githubusercontent.com/ulrichloose/oscope2100/screen.png)
+![la](https://github.com/ulrichloose/oscope2100/blob/master/screen.png?raw=true)
+
